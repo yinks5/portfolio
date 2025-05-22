@@ -1,1 +1,66 @@
-Wellcome Themesine World!
+OLAWOLE, ADESOJI ADEYINKA  
+Email:           adeyinkaolawole63@gmail.com 
+Phone no:  +234 (902) 195 8044
+Address:      No 4, Ogundare Awise Street, Soluyi, Gbagada, Lagos, Nigeria  
+Summary
+Dedicated and skilled Electrical Technician and surveillance expert with 2 years of experience in installing, maintaining, and troubleshooting surveillance systems and electrical infrastructure. Proficient in working with various CCTV systems, wiring setups, and electrical components, ensuring quality and safety compliance. Adept at problem-solving, reading technical blueprints, and delivering projects on time and within budget. Proven ability to work in residential, commercial, and industrial environments while maintaining high standards of professionalism and customer satisfaction.
+
+
+Skills Acquisition 
+. Cisco Certified Network Associate - ISP Trainings
+Jan 2025 - Apr 2025  
+
+Work History
+
+Electrical Installer & Surveillance Technician - Murret Power PLC
+Nov 2023 - Dec 2024    
+Installed and configured CCTV systems for residential and commercial clients, ensuring optimal camera placement and coverage.
+Performed electrical wiring, including power distribution, lighting installations, and panel upgrades, while adhering to national and local safety standards.
+Diagnosed and repaired faults in electrical systems and CCTV equipment, ensuring minimal downtime for clients.
+Installed and integrated access control systems, burglar alarms, and video intercom systems to enhance overall security.
+Conducted regular maintenance checks and system updates for existing installations to prevent issues and ensure longevity.
+Provided technical support and training to clients, ensuring they understood the functionalities and maintenance of installed systems.
+Worked closely with project managers and other tradespeople to ensure smooth project execution and timely completion. 
+
+Software Developer Intern - HiiT Plc Nigeria
+
+Designed, developed, and maintained robust web and mobile applications for internal and client projects, ensuring high performance and responsiveness.
+Collaborated with cross-functional teams to gather and analyze requirements, translating them into technical specifications and solutions.
+Developed scalable backend services and APIs using JavaScript & Python, ensuring seamless integration with frontend components.
+Utilized frontend frameworks like React to build intuitive and user-friendly interfaces, ensuring a consistent user experience across devices.
+Wrote clean, efficient, and maintainable code, following best practices in software development, including proper version control and code documentation.
+Conducted software testing and debugging to identify and resolve issues promptly, ensuring minimal downtime and optimal performance.
+Participated in sprint planning, daily stand-ups, and sprint reviews as part of the Agile development process, contributing to project success and timely delivery.
+Worked on the migration and optimization of legacy systems, improving performance by [X]% and reducing operational costs. .
+
+NYSC  - Internal Revenue Services Ogun State  
+2019 - 2020
+Enforcement team 
+Issuance of non-compliance letter to Defaulters   
+Issuance of awareness letter for new services providers (Hotel, Restaurant)
+Book Keeping 
+Customer experience management  
+EDUCATION
+B-Sc. Business Administration; HNAUB, Cotonou Benin                                                                   2013 - 2017
+                          
+Key Skills 
+CCTV system installation and configuration
+Electrical wiring and troubleshooting
+Microsoft Packages: Word, Excel, PowerPoint  
+Web development and Programming 
+Security system maintenance and repairs
+Knowledge of IP, analog, and hybrid surveillance systems
+Understanding of electrical codes and safety regulations
+Network cabling (Ethernet, coaxial)
+Access control systems and alarm integration
+Equipment testing and commissioning
+Blueprint and schematic interpretation
+Customer service and technical support
+Compliance with safety and industry standards (NEC, IEE)
+Professional Programming Skills  
+Web development  
+JavaScript 
+Cascading Style Sheet ( CSS ) 
+HTML 
+Wordpress 
+Back - End  
