@@ -1,21 +1,14 @@
 -----------------------
 # README
 -----------------------
-Adeyinka is a one page bootstrap 3 based resume/portfolio template.
+Adeyinka Portfolio
 
 
-Template Info:
------------------------
-Name: 		Adeyinka - Bootstrap One Page Portfolio Resume 
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
 
+Name: 		Adeyinka Portfolio Resume 
+Author: 	Adeyinka olawole
+Website: 	https://instagram.com/yinks15
 
-Changelog:
------------------------
-Version 1.0 14-05-2018
-- initial release 
 
 
 Credits:
@@ -28,7 +21,6 @@ Credits:
 - Bootsnav http://bootsnav.danurstrap.com/
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
-
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
+- Github
+- Disney
+- Etc
